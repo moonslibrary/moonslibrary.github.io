@@ -1,6 +1,5 @@
 ---
 layout: page
 ---
-I am a freelance writer, an assistant research in Cognitive science and a sculptor/pottery artist. 
+I am a writer, an assistant researcher in Cognitive Science & Philosophy, and an aspiring sculptor/ potter. 
 
-Yis 
