@@ -21,6 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "", title: "Lab"}
   - {file: "", title: "Shop"}
   - {file: "blog.md", title: "Blog"}
+  - {file: "", title: "Podcast"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:moonlitlib@google.com"}
